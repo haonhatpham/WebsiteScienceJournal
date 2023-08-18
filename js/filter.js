@@ -159,3 +159,41 @@ fetch("../JSON/all_journal.json")
     })
   }
 )
+
+const check_user= ()=> {
+  if(JSON.parse(sessionStorage.getItem('usernameCurr'))!==null){
+    document.querySelector(".user > ul").innerHTML+=`
+      <li class="profile">
+        <a href="#" class="logout">Đăng xuất</a>
+      </li>
+      <li class="user_icon" data-tooltip="Xin chào, ${JSON.parse(sessionStorage.getItem('usernameCurr'))}">
+        <i class="fas fa-user" ></i>
+      </li>
+      `;
+  }
+  else{
+    document.querySelector(".user > ul").innerHTML+=`
+      <li class="profile">
+        <a href="../html/register.html">Đăng kí</a>
+      </li>
+      <li class="profile">
+        <a href="../html/login.html">Đăng nhập</a>
+      </li>`;
+      let postingPage=document.querySelectorAll(".posting")
+      for(let i=0;i<postingPage.length;i++){
+      postingPage[i].onclick=function(){
+        window.location.assign("../html/posting.html");
+      }
+    }
+  }
+}
+check_user()
+
+let logOut=document.querySelector(".logout");
+logOut.onclick= function(){
+  sessionStorage.setItem('usernameCurr',null);
+  sessionStorage.setItem('passwordCurr',null);
+  check_user();
+  location.reload()
+
+}
