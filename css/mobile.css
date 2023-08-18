@@ -175,7 +175,7 @@
   }
   .header .header_right ul>li>a{
     padding: 5px;
-    font-size: 15px;
+    font-size: 13px;
     line-height: 15px;
   }
   .header .header_right .lang{
@@ -244,6 +244,10 @@
     width: 400px;
     height: 250px;
   } */
+  .box-content{
+    width: 90%;
+    margin: auto;
+  }
   .img-slider .slide .info{
     padding: 10px 20px;
   }
@@ -289,6 +293,9 @@
   }
   .journal_header >h3 {
     font-size: 16px;
+  }
+  .row{
+    flex-direction: column;
   }
 
 }
