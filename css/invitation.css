@@ -1,0 +1,50 @@
+/*invitation*/
+
+.content .content-display .head-letter{
+    display: flex;
+    text-align: center;
+  }
+  
+  .content .content-display .head-letter .left-letter{
+    width: 50%;
+  }
+  
+  .content .content-display .head-letter .right-letter{
+    width: 50%;
+  }
+  
+  .content .content-display .date-letter{
+    text-align: right;
+  }
+  .content .content-display .title{
+    text-align: center;
+    font-size: 20px;
+  }
+  
+  .table{
+    margin-bottom: 10px;
+  }
+  
+  .content .content-display table{
+    border-collapse: collapse;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .content .content-display table td{
+    border: 1px solid black;
+  }
+  
+  
+  
+  .bold{
+    font-weight: bold;
+  }
+  
+  .italic{
+    font-style: italic;
+  }
+  
+  .underline{
+    text-decoration: underline;
+  }

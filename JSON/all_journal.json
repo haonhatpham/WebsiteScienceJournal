@@ -1,0 +1,141 @@
+[
+    {
+        "id":1,
+        "image":"../img/anhnd1.png",
+        "type":"Review",
+        "time":"2023-04-30",
+        "quantity":"5744-5756",
+        "title":"Một phân tích về tác động của buthionine sulfoximine và N-nitro-L-arginine đối với huyết áp",
+        "author":" Gungor B., Akdur S., Silan C., Coskun O., Aksulu H. E.",
+        "describle":"Tóm tắt: Sự hiện diện của những điểm yếu trong hiệu quả của các thuốc giãn mạch và natri niệu nội sinh đóng một vai trò quan trọng trong việc phát triển huyết áp cao. Người ta thường cho rằng stress oxy hóa rất quan trọng trong việc phát triển tăng huyết áp do ức chế tổng hợp oxit nitric (NOS). Nghiên cứu này nhằm...",
+        "group":"KHGD"
+    },
+    {
+        "id":2,
+        "image":"../img/anhnd2.png",
+        "type":"ORIGINAL RESEARCH",
+        "time":"2023-09-01",
+        "quantity":"5744-5756",
+        "title":"Cải thiện chứng đau thần kinh do tập thể dục ở chuột: Vai trò có thể có của stress oxy hóa",
+        "author":"Ghasemi S., Ghanbari A., Rashidy-pour A., Bandegi A. R.",
+        "describle":"Tóm tắt: Đau thần kinh là một trong những vấn đề chính xảy ra sau một tổn thương hoặc bệnh của hệ thống cảm giác thân thể. Trong nghiên cứu này, tác dụng của việc tập thể dục đối với stress oxy hóa sau cơn đau thần kinh do chấn thương dây thần kinh tọa ở chuột cống đực và cái đã được đánh giá...",
+        "group":"KHGD"
+    },
+    {
+        "id":3,
+        "image":"../img/anhnd3.png",
+        "type":"Review",
+        "time":"2023-06-30",
+        "quantity":"5744-5756",
+        "title":"Ghép tế bào gốc trung mô trong điều trị vô sinh: Tổng quan",
+        "author":"Mirfakhraie R., Lasemi M., Mehravar M., Halvachi D., Salimi M., Roshandel E.",
+        "describle":"Tóm tắt: Vô sinh là một rối loạn toàn cầu, xuất phát từ các yếu tố liên quan đến nam giới hoặc nữ giới và không chỉ ảnh hưởng đến cá nhân mà còn ảnh hưởng đến gia đình và xã hội. Gần đây, liệu pháp tế bào gốc, được gọi là y học tái tạo, sử dụng tế bào gốc hoặc các dẫn xuất của chúng để điều trị bệnh, hứa hẹn những cách mới để điều trị vô sinh. một số trong...",
+        "group":"KHGD"
+    },
+    
+    {
+        "id":4,
+        "image":"../img/anhnd4.png",
+        "type":"Review",
+        "time":"2022-08-10",
+        "quantity":"5744-5756",
+        "title":"Tỷ lệ đột biến TECTA và GJB2 ở trẻ em châu Á bị mất thính lực không do triệu chứng: Một phân tích tổng hợp",
+        "author":"Hoang P., T., V., Lam Q., A., Ngo M., X., Nguyen A., T., H., Nguyen T., V., Phan C. T. T.",
+        "describle":"Tóm tắt: Rối loạn cảm giác phổ biến nhất, mất thính giác, có thể do nguyên nhân di truyền. Các kiểu thừa kế khác nhau tồn tại, chẳng hạn như liên kết với nhiễm sắc thể X, trội trên nhiễm sắc thể thường, lặn trên nhiễm sắc thể thường và ty thể. Tuy nhiên, nền tảng di truyền của sự khác biệt chủng tộc và sự khác biệt trong khu vực vẫn chưa được hiểu đầy đủ...",
+        "group":"KHTN"
+    },
+    {
+        "id":5,
+        "image":"../img/anhnd5.png",
+        "type":"Review",
+        "time":"2022-01-02",
+        "quantity":"5744-5756",
+        "title":"Bài toán dự đoán (prediction) dựa trên mô hình hồi quy trong Machine Learning",
+        "author":"Hoang P., T., V., Lam Q., A., Ngo M., X., Nguyen A., T., H., Nguyen T., V., Phan C. T. T.",
+        "describle":"Tóm tắt: Rối loạn cảm giác phổ biến nhất, mất thính giác, có thể do nguyên nhân di truyền. Các kiểu thừa kế khác nhau tồn tại, chẳng hạn như liên kết với nhiễm sắc thể X, trội trên nhiễm sắc thể thường, lặn trên nhiễm sắc thể thường và ty thể. Tuy nhiên, nền tảng di truyền của sự khác biệt chủng tộc và sự khác biệt trong khu vực vẫn chưa được hiểu đầy đủ...",
+        "group":"KHTN"
+    },
+    {
+        "id":6,
+        "image":"../img/anhnd6.png",
+        "type":"Review",
+        "time":"2022-07-22",
+        "quantity":"5744-5756",
+        "title":"Tích phân Riemann và định lý Fubini",
+        "author":"Hoang P., T., V., Lam Q., A., Ngo M., X., Nguyen A., T., H., Nguyen T., V., Phan C. T. T.",
+        "describle":"Tóm tắt: Rối loạn cảm giác phổ biến nhất, mất thính giác, có thể do nguyên nhân di truyền. Các kiểu thừa kế khác nhau tồn tại, chẳng hạn như liên kết với nhiễm sắc thể X, trội trên nhiễm sắc thể thường, lặn trên nhiễm sắc thể thường và ty thể. Tuy nhiên, nền tảng di truyền của sự khác biệt chủng tộc và sự khác biệt trong khu vực vẫn chưa được hiểu đầy đủ...",
+        "group":"KHMT"
+    },
+    {
+        "id":7,
+        "image":"../img/anhnd7.jpg",
+        "type":"Review",
+        "time":"2021-06-13",
+        "quantity":"5744-5756",
+        "title":"Object detection với faster-RCNN",
+        "author":"Hoang P., T., V., Lam Q., A., Ngo M., X., Nguyen A., T., H., Nguyen T., V., Phan C. T. T.",
+        "describle":"Tóm tắt: Rối loạn cảm giác phổ biến nhất, mất thính giác, có thể do nguyên nhân di truyền. Các kiểu thừa kế khác nhau tồn tại, chẳng hạn như liên kết với nhiễm sắc thể X, trội trên nhiễm sắc thể thường, lặn trên nhiễm sắc thể thường và ty thể. Tuy nhiên, nền tảng di truyền của sự khác biệt chủng tộc và sự khác biệt trong khu vực vẫn chưa được hiểu đầy đủ...",
+        "group":"KHXHVNV"
+    },
+    {
+        "id":8,
+        "image":"../img/anhnh8.jpg",
+        "type":"Review",
+        "time":"2021-04-28",
+        "quantity":"5744-5756",
+        "title":"Ứng dụng thêm mô tả cho ảnh (image captioning)",
+        "author":"Hoang P., T., V., Lam Q., A., Ngo M., X., Nguyen A., T., H., Nguyen T., V., Phan C. T. T.",
+        "describle":"Tóm tắt: Rối loạn cảm giác phổ biến nhất, mất thính giác, có thể do nguyên nhân di truyền. Các kiểu thừa kế khác nhau tồn tại, chẳng hạn như liên kết với nhiễm sắc thể X, trội trên nhiễm sắc thể thường, lặn trên nhiễm sắc thể thường và ty thể. Tuy nhiên, nền tảng di truyền của sự khác biệt chủng tộc và sự khác biệt trong khu vực vẫn chưa được hiểu đầy đủ...",
+        "group":"KHTN"
+    },
+    {
+        "id":9,
+        "image":"../img/anhnd9.jpg",
+        "type":"Review",
+        "time":"2021-12-31",
+        "quantity":"5744-5756",
+        "title":"Các kĩ thuật cơ bản trong deep learning",
+        "author":"Hoang P., T., V., Lam Q., A., Ngo M., X., Nguyen A., T., H., Nguyen T., V., Phan C. T. T.",
+        "describle":"Tóm tắt: Rối loạn cảm giác phổ biến nhất, mất thính giác, có thể do nguyên nhân di truyền. Các kiểu thừa kế khác nhau tồn tại, chẳng hạn như liên kết với nhiễm sắc thể X, trội trên nhiễm sắc thể thường, lặn trên nhiễm sắc thể thường và ty thể. Tuy nhiên, nền tảng di truyền của sự khác biệt chủng tộc và sự khác biệt trong khu vực vẫn chưa được hiểu đầy đủ..."
+    },
+    {
+        "id":10,
+        "image":"../img/anhnd4.png",
+        "type":"Review",
+        "time":"2020-01-23",
+        "quantity":"5744-5756",
+        "title":"Khái niệm về cây quyết định",
+        "author":"Hoang P., T., V., Lam Q., A., Ngo M., X., Nguyen A., T., H., Nguyen T., V., Phan C. T. T.",
+        "describle":"Tóm tắt: Rối loạn cảm giác phổ biến nhất, mất thính giác, có thể do nguyên nhân di truyền. Các kiểu thừa kế khác nhau tồn tại, chẳng hạn như liên kết với nhiễm sắc thể X, trội trên nhiễm sắc thể thường, lặn trên nhiễm sắc thể thường và ty thể. Tuy nhiên, nền tảng di truyền của sự khác biệt chủng tộc và sự khác biệt trong khu vực vẫn chưa được hiểu đầy đủ..."
+    },
+    {
+        "id":9,
+        "image":"../img/anhnd4.png",
+        "type":"Review",
+        "time":"2020-07-23",
+        "quantity":"5744-5756",
+        "title":"Phương pháp tăng cường ( Boosting )",
+        "author":"Hoang P., T., V., Lam Q., A., Ngo M., X., Nguyen A., T., H., Nguyen T., V., Phan C. T. T.",
+        "describle":"Tóm tắt: Rối loạn cảm giác phổ biến nhất, mất thính giác, có thể do nguyên nhân di truyền. Các kiểu thừa kế khác nhau tồn tại, chẳng hạn như liên kết với nhiễm sắc thể X, trội trên nhiễm sắc thể thường, lặn trên nhiễm sắc thể thường và ty thể. Tuy nhiên, nền tảng di truyền của sự khác biệt chủng tộc và sự khác biệt trong khu vực vẫn chưa được hiểu đầy đủ..."
+    },
+    {
+        "id":9,
+        "image":"../img/anhnd4.png",
+        "type":"Review",
+        "time":"2020-02-23",
+        "quantity":"5744-5756",
+        "title":"Ứng dụng mô hình scorecard",
+        "author":"Hoang P., T., V., Lam Q., A., Ngo M., X., Nguyen A., T., H., Nguyen T., V., Phan C. T. T.",
+        "describle":"Tóm tắt: Rối loạn cảm giác phổ biến nhất, mất thính giác, có thể do nguyên nhân di truyền. Các kiểu thừa kế khác nhau tồn tại, chẳng hạn như liên kết với nhiễm sắc thể X, trội trên nhiễm sắc thể thường, lặn trên nhiễm sắc thể thường và ty thể. Tuy nhiên, nền tảng di truyền của sự khác biệt chủng tộc và sự khác biệt trong khu vực vẫn chưa được hiểu đầy đủ..."
+    },
+    {
+        "id":9,
+        "image":"../img/anhnd4.png",
+        "type":"Review",
+        "time":"2019-06-02",
+        "quantity":"5744-5756",
+        "title":"Giới thiệu về mô hình rừng cây ( Random Forest )",
+        "author":"Hoang P., T., V., Lam Q., A., Ngo M., X., Nguyen A., T., H., Nguyen T., V., Phan C. T. T.",
+        "describle":"Tóm tắt: Rối loạn cảm giác phổ biến nhất, mất thính giác, có thể do nguyên nhân di truyền. Các kiểu thừa kế khác nhau tồn tại, chẳng hạn như liên kết với nhiễm sắc thể X, trội trên nhiễm sắc thể thường, lặn trên nhiễm sắc thể thường và ty thể. Tuy nhiên, nền tảng di truyền của sự khác biệt chủng tộc và sự khác biệt trong khu vực vẫn chưa được hiểu đầy đủ..."
+    }
+]

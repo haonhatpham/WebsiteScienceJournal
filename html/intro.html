@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<!-- Created By CodingNepal - www.codingnepalweb.com -->
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <!-- Tên chủ đề trang -->
+  <title> Tạp chí khoa học </title>
+  <meta name="author" content="Nhật Hào">
+  <!-- Danh sách các từ khóa -->
+  <meta name="Keywords" content="html, javascript,js, science journal">
+  <!-- Kiểu nội dung (content type) trang -->
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="refresh" content="30">
+    <link rel="stylesheet" href="style.css">
+    <!-- Boxicons CDN Link -->
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="../css/style.css">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+     <link rel="stylesheet" href="https://cdn.rawgit.com/daneden/animate.css/v3.1.0/animate.min.css">
+     <script src="https://cdn.rawgit.com/matthieua/WOW/1.0.1/dist/wow.min.js"></script>
+     <script type="text/javascript">
+        new WOW().init();
+     </script>
+    <link rel="stylesheet" href="../css/mobile.css">
+</head>
+<body>
+  <a href="#" class="backtotop"><i class="fas fa-chevron-up"></i></a>
+
+  <div class="social_icons">
+    <a href="#">
+      <i class="fab fa-facebook-f"></i>
+      <span>Facebook</span>
+    </a>
+    <a href="#">
+      <i class="fab fa-twitter"></i>
+      <span>Twitter</span>
+    </a>
+    <a href="#">
+      <i class="fab fa-instagram"></i>
+      <span>Instagram</span>
+    </a>
+    <a href="#">
+      <i class="fab fa-linkedin-in"></i>
+      <span>Linkedin</span>
+    </a>
+    <a href="#">
+      <i class="fab fa-github"></i>
+      <span>Github</span>
+    </a>
+    <a href="#">
+      <i class="fab fa-youtube"></i>
+      <span>Youtube</span>
+    </a>
+  </div>
+  <header class="header flex">
+    <div class="header_left">
+      <div class="header-logo">
+          <img src="../img/logOU.jpg" alt="">
+      </div>
+    </div>
+    <div class="header_right flex">
+      <div class="user flex">
+				<ul class="flex">
+				</ul>
+      </div>
+		  <div class="lang flex">
+					<a href="#" ><img src="../img/england.webp" alt=""></a>
+			</div>
+    </div>
+  </header>
+  <nav class="nav">
+    <div class="navbar">
+      <i class='bx bx-menu'></i>
+      <div class="logo"><a href="#">SCIENCE JOURNAL</a></div>
+      <div class="nav-links flex">
+        <div class="sidebar-logo">
+          <span class="logo-name">SCIENCE JOURNAL</span>
+          <i class='bx bx-x' ></i>
+        </div>
+        <ul class="links">
+          <li><a href="../html/index.html">TRANG CHỦ</a></li>
+          <li>
+            <a href="#">GIỚI THIỆU</a>
+            <i class='bx bxs-chevron-down js-arrow arrow '></i>
+            <ul class="js-sub-menu sub-menu">
+              <li><a href="../html/intro.html">GIỚI THIỆU VỀ TẠP CHÍ</a></li>
+              <li><a href="../html/invitation.html">THƯ MỜI VIẾT BÀI </a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="#">CÁC SỐ BÁO</a>
+            <i class='bx bxs-chevron-down htmlcss-arrow arrow '></i>
+            <ul class="htmlCss-sub-menu sub-menu">
+              <li><a href="../html/news.html#2023">NĂM 2023</a></li>
+              <li><a href="../html/news.html#2022">NĂM 2022</a></li>
+              <li><a href="../html/news.html#2021">NĂM 2021</a></li>
+              <li class="more">
+                <span><a href="#">LÂU HƠN</a>
+                <i class='bx bxs-chevron-right arrow more-arrow'></i>
+                </span>
+                <ul class="more-sub-menu sub-menu">
+                  <li><a href="../html/news.html#2020">NĂM 2020</a></li>
+                  <li><a href="../html/news.html#2019">NĂM 2019</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li><a href="../html/instruct.html">QUI ĐỊNH-HƯỚNG DẪN</a></li>
+          <li><a href="../html/all_notify.html">THÔNG BÁO</a></li>
+          <li><a href="../html/contact.html">LIÊN HỆ</a></li>
+        </ul>
+      </div>
+      <div class="search-box">
+        <div class="search-choice">
+          <i class='bx bx-search'></i>
+          <p>Tìm kiếm</p>
+        </div>
+        <div class="input-box">
+          <input type="text" placeholder="Search..." id="kw" onKeyPress="return disableEnterKey(event)" >
+        </div>
+      </div>
+    </div>
+  </nav>
+  <main class="main">
+    <div class="container flex">
+      <div class="main_category">
+        <ul class="category">
+          <li class="title">Danh sách chuyên mục</li>
+          <li>
+            <div class="group">
+              <a href="#" class="field">Khoa học tự nhiên và công nghệ</a>
+              <i class='bx bxs-chevron-down category-arrow arrow'></i>
+            </div>
+            <ul class="category-sub-menu submenu2">
+              <li><a href="#" class="posting">Ban biên tập</a></li>
+              <li><a href="../html/khtn.html">Bài viết</a></li>
+            </ul>
+          </li>
+          <li>
+            <div class="group">
+              <a href="#" class="field">Khoa học xã hội và nhân văn</a>
+              <i class='bx bxs-chevron-down category-arrow arrow'></i>
+            </div>
+            <ul class="category-sub-menu submenu2">
+              <li><a href="#" class="posting">Ban biên tập</a></li>
+              <li><a href="../html/khxh&nv.html">Bài viết</a></li>
+            </ul>
+          </li>
+          <li>
+            <div class="group">
+              <a href="#" class="field">Khoa học giáo dục</a>
+              <i class='bx bxs-chevron-down category-arrow arrow'></i>
+            </div>
+            <ul class="category-sub-menu submenu2">
+              <li><a href="#" class="posting">Ban biên tập</a></li>
+              <li><a href="../html/khgd.html">Bài viết</a></li>
+            </ul>
+          </li>
+          <li>
+            <div class="group">
+              <a href="#" class="field">Khoa học môi trường</a>
+              <i class='bx bxs-chevron-down category-arrow arrow'></i>
+            </div>
+            <ul class="category-sub-menu submenu2">
+              <li><a href="#" class="posting">Ban biên tập</a></li>
+              <li><a href="../html/khmt.html">Bài viết</a></li>
+            </ul>
+          </li>
+          <li class="title">THÔNG BÁO</li>
+          <li>
+            <div class="group borderbot">
+              <a href="../html/notify2.html">Thư mời viết bài công bố kết quả nghiên cứu đăng trên Tạp chí Khoa học Đại học Mở năm 2024</a>
+              <small>11/07/2023</small>
+            </div>
+          </li>
+          <li>
+            <div class="group borderbot">
+              <a href="../html/notify1.html">Trường Đại học Mở công bố hơn 300 bài báo khoa học</a>
+              <small>01/01/2023</small>
+            </div>
+          </li>
+          <li>
+            <div class="group borderbot">
+              <a href="../html/notify3.html">Quyết định phê duyệt Danh mục tạp chí khoa học được tính điểm năm 2023
+              </a>
+              <small>10/10/2022</small>
+            </div>
+          </li>
+          <li>
+            <div class="group borderbot">
+              <a href="#">Kế hoạch xuất bản Tạp chí năm 2023</a>
+              <small>22/11/2021</small>
+            </div>
+          </li>
+          <li>
+              <div class="group">
+                  <a href=""></a>
+                  <small>
+                    <a href="../html/all_notify.html">Xem tất cả <i class="fas fa-long-arrow-alt-right"></i></a>
+                  </small>
+
+              </div>
+          </li>
+          <li class="title">SỐ MỚI RA</li>
+          <li>
+            <div class="group borderbot">
+              <a href="../html/journal1.html" class="newimg"><img src="../img/anhnd1.png" alt=""></a>
+              <a href="../html/journal1.html" class="describle">Một phân tích về tác động của buthionine sulfoximine và N-nitro-L-arginine đối với huyết áp</a>
+            </div>
+          </li>
+          <li>
+            <div class="group borderbot">
+              <a href="../html/journal3.html" class="newimg"><img src="../img/anhnd2.png" alt=""></a>
+              <a href="../html/journal3.html" class="describle">Ghép tế bào gốc trung mô trong điều trị vô sinh: Tổng quan</a>
+            </div>
+          </li>
+          <li>
+            <div class="group borderbot">
+              <a href="../html/journal2.html" class="newimg"><img src="../img/anhnd3.png" alt=""></a>
+              <a href="../html/journal2.html" class="describle">Cải thiện chứng đau thần kinh do tập thể dục ở chuột: Vai trò có thể có của stress oxy hóa</a>
+            </div>
+          </li>
+          <li>
+            <div class="group borderbot">
+              <a href="../html/journal4.html" class="newimg"><img src="../img/anhnd4.png" alt=""></a>
+              <a href="../html/journal4.html" class="describle">Ghép tế bào gốc trung mô trong điều trị vô sinh: Tổng quan</a>
+            </div>
+          </li>
+          <li>
+            <div class="group borderbot">
+              <a href="#" class="newimg"><img src="../img/anhnd5.png" alt=""></a>
+              <a href="" class="describle">Bài toán dự đoán (prediction) dựa trên mô hình hồi quy trong Machine Learning </a>
+            </div>
+          </li>
+          <li>
+            <div class="group">
+                <a href=""></a>
+                <small>
+                  <a href="../html/news.html">Xem tất cả <i class="fas fa-long-arrow-alt-right"></i></a>
+                </small>
+
+            </div>
+        </li>
+          <li class="title">Tóm tắt và lập chỉ mục</li>
+          <li><a href="#"><img src="https://dthujs.vn/templates/images/indexing/gscholar.png" width="500" height="90"></a></li>
+          <li><p><a href="#"><img src="https://dthujs.vn/templates/images/indexing/crossref.jpeg" width="580" height="100"></a></p>
+          </li>
+          <li><p><a href="#"><img src="https://dthujs.vn/templates/images/indexing/issn.svg" width="595" height="80"></a></p>
+          </li>
+          <li><p><a title="Kiểm tra trùng lặp và đạo văn nhanh nhất, chính xác nhất" href="https://kiemtratailieu.vn/"><img src="https://kiemtratailieu.vn/wp-content/uploads/2021/11/logo-full-2-2.png" alt="Kiểm Tra Tài Liệu – Kiểm tra đạo văn, trùng lặp luận văn, luận án, SKKN" width="607" height="100"></a></p>
+          </li>
+        </ul>   
+      </div>
+      <div class="content wow bounceInUp">
+        <div>
+            <div class="content-title">
+              <h3>GIỚI THIỆU</h3>
+              <hr>
+            </div>
+            <div class="content-display">
+              <a href="#">Giới thiệu về tạp chí khoa học:</a>
+              <p>
+                Tạp chí Khoa học Giáo dục Kỹ thuật - một tạp chí chuyên ngành về giáo dục kỹ thuật, niềm mơ ước của những người làm công tác giảng dạy, nghiên cứu trong lĩnh vực này, Tạp chí Khoa học Giáo dục Kỹ thuật thuộc Bộ Giáo dục và Đào tạo đã ra ấn bản số đầu tiên - 01/2006 vào tháng 8 năm 2006 (theo giấy phép xuất bản số 158/GP-BVHTT ngày 01 tháng 12 năm 2005 và được cấp lại giấy phép 475/GP-BTTTT ngày 4 tháng 12 năm 2013) với kỳ hạn 02 tháng một kỳ, đồng thời từ năm 2016, Tạp chí xuất bản chuyên đề đặc biệt bằng Tiếng Anh 2 số/năm trên cơ sở giấy phép bổ sung, sửa đổi do Bộ Thông tin Truyền thông cấp ngày 04/04/2016 và mã số ISSN 2615 - 9740 do Cục Thông tin khoa học và Công nghệ Quốc Gia cấp ngày 20/02/2020.
+              </p>
+              <br>
+              <br>
+              <p>
+                Tôn chỉ, mục đích hoạt động của tạp chí: <span class="bold italic"> Là diễn đàn trao đổi về chiến lược đào tạo nguồn nhân lực, phương pháp dạy nghề, phương tiện giảng dạy kỹ thuật phục vụ cho nhu cầu công nghiệp hóa, hiện đại hóa đất nước. Công bố và phổ biến các công trình nghiên cứu khoa học thuộc lĩnh vực khoa học công nghệ và giáo dục kỹ thuật, giáo dục chuyên nghiệp trong và ngoài nước.</span>
+              </p>
+              <br>
+              <br>
+              <p>Tạp chí dày 100-120 trang, khổ 21 x 29,7 cm, ngôn ngữ thể hiện gồm tiếng Việt và tiếng Anh. Tạp chí sẽ được phát hành rộng rãi trên cả nước. Đây là tạp chí chung của ngành, là tạp chí có phản biện và có 04 ngành được Hội đồng Chức danh Giáo sư Nhà nước công nhận tính điểm công trình, cụ thể là:</p>
+              <ul>
+                <li>Liên ngành Cơ Khí - Động lực: 0-0.5 điểm</li>
+                <li>Ngành Cơ học: 0-0.25 điểm</li>
+                <li>Ngành Giáo dục: 0-0.5 điểm</li>
+                <li>Liên ngành Điện-Điện Tử - Tự động hóa: 0-0.25 điểm</li>
+              </ul>
+              <br>
+              <br>
+              <p>Chúng tôi xin trân trọng giới thiệu và kính mời quý vị đón đọc. Rất hoan nghênh sự cộng tác bài vở và ý kiến đóng góp quí báu của quý vị để tạp chí ngày càng hoàn thiện hơn.</p>
+            </div>
+          </div>
+      </div>
+    </div>   
+  </main>
+  <footer class="footer_area">
+    <div class="f_title" style="margin-bottom: 10px;">
+      <img src="https://journalofscience.ou.edu.vn/plugins/themes/ou/assets/img/LogoOU.png">
+    </div>
+    <div class="address">
+        <p><strong>TẠP CHÍ KHOA HỌC OU</strong></p>
+        <p>Cơ quan chủ quản: <a href="#" target="_blank">Trường Đại học Mở Thành phố Hồ Chí Minh</a></p>
+        <p>Cơ quan xuất bản: <a href="#" target="_blank">Tạp chí Khoa học Trường Đại học Mở Thành phố Hồ Chí Minh</a></p>
+        <p>Địa chỉ: <em>97 Võ Văn Tần, phường Võ Thị Sáu, quận 3, TP.HCM, Việt Nam</em></p>
+        <p>Giấy phép trang thông tin điện tử tổng hợp số: <em>03/GP-TTĐT</em> <br>Do Cục Phát thanh, Truyền hình và Thông tin điện tử cấp ngày 07-01-2021</p>
+        <p>Giấy phép Hoạt động Tạp chí in và Tạp chí điện tử số: <em>559/GP-BTTTT</em> <br>Do Bộ Thông tin và Truyền thông cấp ngày 30-08-2021</p>
+    </div>
+    <div class="editor">
+      <p><strong>BAN BIÊN TẬP</strong></p>
+      <p>Tổng Biên tập: Trương Tấn Đạt</p>
+      <p>Phó Tổng Biên tập: Nguyễn Văn Dũng</p>
+      <p>Thư ký tòa soạn:&nbsp;Danh Trung (Trưởng ban Thư ký)&nbsp;</p>
+      <p>Website: <a href="http://journalofscience.ou.edu.vn/">http://journalofscience.ou.edu.vn/</a></p>
+      <p>Email: <a href="mailto:journalofscience@ou.edu.vn"> journalofscience@ou.edu.vn</a></p>
+      <p>Ðiện thoại: <a href="tell:(+84)%2028 39 333 688">(+84) 28 39 333 688</a></p>
+    </div>
+  </footer>
+  <script src="../js/main.js"></script>
+</body>
+</html>
